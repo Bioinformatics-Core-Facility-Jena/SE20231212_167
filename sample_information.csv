@@ -1,0 +1,44 @@
+Sample_ID;Sample_Name;Genotype;Species ;Ecotype/Background;Mutant/Wild-type;SynCom;Treatment;Experiment;Growth_condition;Group
+CLLF_1_1;sample_1;CLLF;A . thaliana;NG2;Mutant;SynCom1;Control;SynCom_Stress_Expt;Semi_Gnotobiotic;CLLF_1
+CLLF_1_2;sample_2;CLLF;A . thaliana;NG2;Mutant;SynCom1;Control;SynCom_Stress_Expt;Semi_Gnotobiotic;CLLF_1
+CLLF_1_3;sample_3;CLLF;A . thaliana;NG2;Mutant;SynCom1;Control;SynCom_Stress_Expt;Semi_Gnotobiotic;CLLF_1
+CLLF_4H_1;sample_24;CLLF;A . thaliana;NG2;Mutant;SynCom4;Heat;SynCom_Stress_Expt;Semi_Gnotobiotic;CLLF_4H
+CLLF_4H_2;sample_25;CLLF;A . thaliana;NG2;Mutant;SynCom4;Heat;SynCom_Stress_Expt;Semi_Gnotobiotic;CLLF_4H
+CLLF_4H_3;sample_26;CLLF;A . thaliana;NG2;Mutant;SynCom4;Heat;SynCom_Stress_Expt;Semi_Gnotobiotic;CLLF_4H
+CLLF_4_1;sample_4;CLLF;A . thaliana;NG2;Mutant;SynCom4;Control;SynCom_Stress_Expt;Semi_Gnotobiotic;CLLF_4
+CLLF_4_3;sample_5;CLLF;A . thaliana;NG2;Mutant;SynCom4;Control;SynCom_Stress_Expt;Semi_Gnotobiotic;CLLF_4
+CLLF_C1;sample_6;CLLF;A . thaliana;NG2;Mutant;none;Control;SrG_Expt;Sterile_MS;CLLF_C
+CLLF_C2;sample_7;CLLF;A . thaliana;NG2;Mutant;none;Control;SrG_Expt;Sterile_MS;CLLF_C
+CLLF_C3;sample_8;CLLF;A . thaliana;NG2;Mutant;none;Control;SrG_Expt;Sterile_MS;CLLF_C
+CLLF_HK2;sample_33;CLLF;A . thaliana;NG2;Mutant;NA;Heat_killed ;SrG_Expt;Gnotobiotic;CLLF_HK
+CLLF_NC_1;CLLFsample_9;;A . thaliana;NG2;Mutant;No_SynCom;Control;SynCom_Stress_Expt;Semi_Gnotobiotic;CLLF_NC
+CLLF_NC_2;CLLFsample_10;;A . thaliana;NG2;Mutant;No_SynCom;Control;SynCom_Stress_Expt;Semi_Gnotobiotic;CLLF_NC
+CLLF_NC_3;CLLFsample_11;;A . thaliana;NG2;Mutant;No_SynCom;Control;SynCom_Stress_Expt;Semi_Gnotobiotic;CLLF_NC
+CLLF_NC_H1;sample_12;CLLF;A . thaliana;NG2;Mutant;No_SynCom;Heat;SynCom_Stress_Expt;Semi_Gnotobiotic;CLLF_NC_H
+CLLF_NC_H2;sample_13;CLLF;A . thaliana;NG2;Mutant;No_SynCom;Heat;SynCom_Stress_Expt;Semi_Gnotobiotic;CLLF_NC_H
+CLLF_NC_H3;sample_14;CLLF;A . thaliana;NG2;Mutant;No_SynCom;Heat;SynCom_Stress_Expt;Semi_Gnotobiotic;CLLF_NC_H
+CLLF_SrG1;sample_27;CLLF;A . thaliana;NG2;Mutant;NA;Live_SrG;SrG_Expt;Gnotobiotic;CLLF_SrG
+CLLF_SrG2;sample_28;CLLF;A . thaliana;NG2;Mutant;NA;Live_SrG;SrG_Expt;Gnotobiotic;CLLF_SrG
+CLLF_SrG3;sample_29;CLLF;A . thaliana;NG2;Mutant;NA;Live_SrG;SrG_Expt;Gnotobiotic;CLLF_SrG
+NG2_1_1;sample_15;NG2_Wt;A . thaliana;NG2;WT;SynCom1;Control;SynCom_Stress_Expt;Semi_Gnotobiotic;NG2_1
+NG2_1_2;sample_16;NG2_Wt;A . thaliana;NG2;WT;SynCom1;Control;SynCom_Stress_Expt;Semi_Gnotobiotic;NG2_1
+NG2_1_3;sample_17;NG2_Wt;A . thaliana;NG2;WT;SynCom1;Control;SynCom_Stress_Expt;Semi_Gnotobiotic;NG2_1
+NG2_C1;sample_18;NG2_Wt;A . thaliana;NG2;WT;none;Control;SrG_Expt;Sterile_MS;NG2_C
+NG2_C2;sample_19;NG2_Wt;A . thaliana;NG2;WT;none;Control;SrG_Expt;Sterile_MS;NG2_C
+NG2_C3;sample_20;NG2_Wt;A . thaliana;NG2;WT;none;Control;SrG_Expt;Sterile_MS;NG2_C
+NG2_HK1;sample_34;NG2_Wt;A . thaliana;NG2;Wild-type;NA;Heat_killed ;SrG_Expt;Gnotobiotic;NG2_HK
+NG2_HK2;sample_35;NG2_Wt;A . thaliana;NG2;Wild-type;NA;Heat_killed ;SrG_Expt;Gnotobiotic;NG2_HK
+NG2_HK3;sample_36;NG2_Wt;A . thaliana;NG2;Wild-type;NA;Heat_killed ;SrG_Expt;Gnotobiotic;NG2_HK
+NG2_NC_1;sample_21;NG2_Wt;A . thaliana;NG2;WT;No_SynCom;Control;SynCom_Stress_Expt;Semi_Gnotobiotic;NG2_NC
+NG2_NC_2;sample_22;NG2_Wt;A . thaliana;NG2;WT;No_SynCom;Control;SynCom_Stress_Expt;Semi_Gnotobiotic;NG2_NC
+NG2_NC_3;sample_23;NG2_Wt;A . thaliana;NG2;WT;No_SynCom;Control;SynCom_Stress_Expt;Semi_Gnotobiotic;NG2_NC
+NG2_SrG1;sample_30;NG2_Wt;A . thaliana;NG2;Wild-type;NA;Live_SrG;SrG_Expt;Gnotobiotic;NG2_SrG
+NG2_SrG2;sample_31;NG2_Wt;A . thaliana;NG2;Wild-type;NA;Live_SrG;SrG_Expt;Gnotobiotic;NG2_SrG
+NG2_SrG3;sample_32;NG2_Wt;A . thaliana;NG2;Wild-type;NA;Live_SrG;SrG_Expt;Gnotobiotic;NG2_SrG
+NG2_4H_1;sample_40;NG2_Wt;A . thaliana;NG2;Wild-type;SynCom4;Heat;SynCom_Stress_Expt;Semi_Gnotobiotic;NG2_4H
+NG2_4H_2;sample_41;NG2_Wt;A . thaliana;NG2;Wild-type;SynCom4;Heat;SynCom_Stress_Expt;Semi_Gnotobiotic;NG2_4H
+NG2_4H_3;sample_42;NG2_Wt;A . thaliana;NG2;Wild-type;SynCom4;Heat;SynCom_Stress_Expt;Semi_Gnotobiotic;NG2_4H
+NG2_4_1;sample_37;NG2_Wt;A . thaliana;NG2;Wild-type;SynCom4;Control;SynCom_Stress_Expt;Semi_Gnotobiotic;NG2_4
+NG2_4_2;sample_38;NG2_Wt;A . thaliana;NG2;Wild-type;SynCom4;Control;SynCom_Stress_Expt;Semi_Gnotobiotic;NG2_4
+NG2_4_3;sample_39;NG2_Wt;A . thaliana;NG2;Wild-type;SynCom4;Control;SynCom_Stress_Expt;Semi_Gnotobiotic;NG2_4
+NG2_NC_H3;sample_43;NG2_Wt;A . thaliana;NG2;Wild-type;No SynCom;Heat;SynCom_Stress_Expt;Semi_Gnotobiotic;NG2_NC_H
